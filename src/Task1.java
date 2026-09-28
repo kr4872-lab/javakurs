@@ -1,3 +1,6 @@
+/*Выполнить циклический сдвиг заданной матрицы на k позиций
+вправо (влево, вверх, вниз)*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
